@@ -7,6 +7,6 @@ This script allows you to extract a conversation with a person in a separate fil
 USAGE
 
 1. Downloading a facebook archive, 
-2. Unzip it to a folder (say <TARGET>)
-3. Copy the script to the folder "<TARGET>/html"
+2. Unzip it to a folder (say TARGET_FOLDER)
+3. Copy the script to the folder "TARGET_FOLDER/html"
 4. Run the script and follow instuctions.
